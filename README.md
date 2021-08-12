@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/neverloquacious.svg?style=social&label=Follow%20%40neverloquacious)](https://twitter.com/neverloquacious)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kevin-a-mathew)
+![GitHub last commit](https://img.shields.io/github/last-commit/kevinam99/kevinam99)
 
 Introducing me, Kevin, a young engineer who wants to do something meaningful and impactful with his work.&#x1F680;  
 Full disclosure: A 3/4 stack developer.
