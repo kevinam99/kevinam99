@@ -62,7 +62,9 @@ time allows and if the work is interesting.
 <br>
   
 ![Visual Studio Code](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=4AB197)
-![Heroku](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)  
+![Heroku](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
+![AWS](https://img.shields.io/badge/Hosting-AWS-informational?style=flat&logo=aws&logoColor=white&color=4AB197)
+    
 </details>
 
   
