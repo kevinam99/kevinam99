@@ -1,14 +1,26 @@
 ### Hi there 👋
-Introducing me, Kevin, a young engineer who wants to do something meaningful and impactful with his work.
-I work with a lot of stuff and I also talk about it on my socials. Get in touch!
-<!--[![Visits Badge](https://badges.pufler.dev/visits/kevinam99/kevinam99)](https://github.com/kevinam99) -->
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/neverloquacious.svg?style=social&label=Follow%20%40neverloquacious)](https://twitter.com/neverloquacious)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kevin-a-mathew)
+
+Introducing me, Kevin, a young engineer who wants to do something meaningful and impactful with his work.&#x1F680;  
+Full disclosure: A 3/4 stack developer.
+I can work with backend languages, servers, and databases. I can't do UI dev. It infurates me. But that's just my opinion.
+I work with a lot of stuff and I also talk about it on my socials. Get in touch! &#x1F31F; I might take up some contract work if
+time allows and if the work is interesting.
+
+- 🔭 I’m currently working on backend development
+- 🌱 I’m currently learning Elixir
+- 💬 Ask me about software engineering, my thoughts on things, music, fitness, sports, nutrition
+- 📫 How to reach me: my socials (Twitter and LinkedIn) are above. My email address is <kevinam99.work@gmail.com>
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: *smiles in pain* :')  and make memes once in a while
+  
+<!--[![Visits Badge](https://badges.pufler.dev/visits/kevinam99/kevinam99)](https://github.com/kevinam99) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kevinam99&theme=onedark)](https://github.com/kevinam99/github-profile-trophy)
   
 
-# 📩 Recent Blog Posts
+## 📩 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Setting Webhooks for Facebook Apps](https://dev.to/kevinam99/setting-webhooks-for-facebook-apps-4o8c)
 <!-- BLOG-POST-LIST:END -->
@@ -29,22 +41,28 @@ I work with a lot of stuff and I also talk about it on my socials. Get in touch!
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=Elixir&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=Postgres&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=Elixir&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
   
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat&logo=TravisCI&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Mix-informational?style=flat&logo=Mix&logoColor=white&color=4AB197)
-
-
+  
+<details>
+<summary>More Skills</summary>
+<br>
+  
+![Visual Studio Code](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=4AB197)
+![Heroku](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)  
+</details>
 <!--
 **kevinam99/kevinam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
