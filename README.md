@@ -14,7 +14,7 @@ time allows and if the work is interesting.
 - 💬 Ask me about software engineering, my thoughts on things, music, fitness, sports, nutrition
 - 📫 How to reach me: my socials (Twitter and LinkedIn) are above. My email address is <kevinam99.work@gmail.com>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: *smiles in pain* :')  and make memes once in a while
+- ⚡ Fun fact: *smiles in pain* :')  and I make memes once in a while
   
 <!--[![Visits Badge](https://badges.pufler.dev/visits/kevinam99/kevinam99)](https://github.com/kevinam99) -->
 
