@@ -18,7 +18,7 @@ time allows and if the work is interesting.
   
 <!--[![Visits Badge](https://badges.pufler.dev/visits/kevinam99/kevinam99)](https://github.com/kevinam99) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kevinam99&theme=onedark)](https://github.com/kevinam99/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kevinam99&theme=onedark)](https://github.com/kevinam99/github-profile-trophy) -->
   
 
 ## 📩 Recent Blog Posts
