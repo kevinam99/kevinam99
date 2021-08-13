@@ -5,7 +5,7 @@
 
 Introducing me, Kevin, a young engineer who wants to do something meaningful and impactful with his work.&#x1F680;  
 Full disclosure: A 3/4 stack developer.
-I can work with backend languages, servers, and databases. I can't do UI dev. It infurates me. But that's just my opinion.
+I can work with backend languages, servers, and databases. I can't do UI dev. It infuriates me. But that's just my opinion.
 I work with a lot of stuff and I also talk about it on my socials. Get in touch! &#x1F31F; I might take up some contract work if
 time allows and if the work is interesting.
 
