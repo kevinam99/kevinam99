@@ -10,7 +10,7 @@ I work with a lot of stuff and I also talk about it on my socials. Get in touch!
 time allows and if the work is interesting.
 
 - 🔭 I’m currently working on backend development
-- 🌱 I’m currently learning Elixir
+- 🌱 I’m currently learning Elixir and blockchain development using Solidity
 - 💬 Ask me about software engineering, my thoughts on things, music, fitness, sports, nutrition
 - 📫 How to reach me: my socials (Twitter and LinkedIn) are above. My email address is <kevinam99.work@gmail.com>
 - 😄 Pronouns: he/him
