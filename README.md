@@ -23,6 +23,7 @@ time allows and if the work is interesting.
 
 ## 📩 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Elixir: Run specific test cases with ExUnit](https://elixirschool.com/blog/run-specific-tests-with-exunit)
 - [Hacking an IoT App at the Civo Hackathon, 2021](https://dev.to/kevinam99/hacking-an-iot-app-at-the-civo-hackathon-2021-3h3g)
 - [Setting Webhooks for Facebook Apps](https://dev.to/kevinam99/setting-webhooks-for-facebook-apps-4o8c)
 <!-- BLOG-POST-LIST:END -->
