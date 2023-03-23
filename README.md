@@ -33,13 +33,14 @@ time allows and if the work is interesting.
 
 <br> -->
 
-<a href="https://github.com/kevinam99">
+<!--  uncomment these two later for the readme stats -->
+<!-- <a href="https://github.com/kevinam99">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinam99&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/kevinam99">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kevinam99&hide=issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Kevin's GitHub Stats" />
-</a> 
+</a>  -->
   
 
 ## 💼 Skills
