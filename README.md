@@ -15,11 +15,7 @@ time allows and if the work is interesting.
 - 📫 How to reach me: my socials (Twitter and LinkedIn) are above. My email address is <kevinam99.work@gmail.com>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: *smiles in pain* :')  and I make memes once in a while
-  
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/kevinam99/kevinam99)](https://github.com/kevinam99) -->
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kevinam99&theme=onedark)](https://github.com/kevinam99/github-profile-trophy) -->
-  
 
 ## 📩 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -33,14 +29,13 @@ time allows and if the work is interesting.
 
 <br> -->
 
-<!--  uncomment these two later for the readme stats -->
-<!-- <a href="https://github.com/kevinam99">
+<a href="https://github.com/kevinam99">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinam99&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/kevinam99">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kevinam99&hide=issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Kevin's GitHub Stats" />
-</a>  -->
+</a> 
   
 
 ## 💼 Skills
